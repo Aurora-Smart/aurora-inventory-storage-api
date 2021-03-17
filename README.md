@@ -1,0 +1,1 @@
+# aurora-inventory-storage-api
